@@ -52,12 +52,13 @@
 ```
 ### 方式二：使用打包好的 exe
 
-下载 Releases
- 中的 yourproject.exe。
+下载 [Releases](https://github.com/sxu79r/EchoBi-B-GUI-/releases)
+ 中的 EchoBi_v1.0_pickedup_.zip。
 
-双击运行，无需安装 Python。
+解压
 
-双击运行，无需安装 Python。
+双击运行EchoBi.exe，无需安装 Python。
+
 ## 🤝 贡献
 欢迎提交 issue
 
