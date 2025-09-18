@@ -1,0 +1,20 @@
+{
+    "Crawl": {
+        "Executor": 3,
+        "Main_Time_LowerLimit": 0.8,
+        "Main_Time_UpperLimit": 2.0,
+        "Save_path": "",
+        "Sub_Time_LowerLimit": 1.0,
+        "Sub_Time_UpperLimit": 2.0
+    },
+    "Audio": {
+        "Failed_Audio_path": "../resource/sound/牡蛎牡蛎.mp3",
+        "Success_Audio_path": "../resource/sound/邦邦咔邦.mp3",
+        "Volume": 60,
+        "Warning_Audio_path": "../resource/sound/欸i.ogg"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff00a1d6",
+        "ThemeMode": "Light"
+    }
+}
